@@ -1,0 +1,5 @@
+# Reproduction de la figure NYC Squirrels présente ici : 
+https://www.cedricscherer.com/top/dataviz/
+https://github.com/z3tt/TidyTuesday/blob/master/R/2019_44_Squirrels.Rmd
+https://github.com/z3tt/TidyTuesday/tree/master/data/2019_44/shp_CentralPark
+
